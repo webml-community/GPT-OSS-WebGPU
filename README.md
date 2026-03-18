@@ -1,3 +1,7 @@
+<p align="center">
+  <img alt="gpt-oss-20b" src="src/gpt-oss-20b.png">
+</p>
+
 ONNX flavor of https://huggingface.co/openai/gpt-oss-20b.
 
 Welcome to the gpt-oss series, [OpenAI’s open-weight models](https://openai.com/open-models) designed for powerful reasoning, agentic tasks, and versatile developer use cases.
